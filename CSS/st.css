@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+/***
+body{
+    background-color: #302005;
+}
+p{
+    color: #61481C;
+}
+
+
+    IMGES     
+.MaskGroup1-img{
+    width: auto;
+    height: 800px;
+}
+.Path6-img{
+    width: 950px;
+    height: 450px;
+}
+.Group10-img{
+    width: 870px;
+    height: 300px;
+}
+
+.nav-item {
+    padding: 0 0;
+}
+
+
+.Heading{
+    text-align: center;
+}
+.Heading-h3{
+    font-family: serif;
+    text-align: center;
+}
+
+        /**  TOP CONTAINER  **/
+.banner{
+    position: relative;}
+.banner-text {
+    color: #fff;
+    position: absolute;
+    top: 25%;
+    width: 50%;
+    padding: 30px;}
+.banner-text h1{
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-bottom: 5px;
+    margin-left: 10%;}
+/**.banner-h{}**/
+.banner-p{
+    margin-left: 10%;
+    text-align: left;}
+.btn-topcntnr{
+    font-size: 3rem;
+    border: 1px solid #fff;
+    background: none;
+    padding: 10px 40px;
+    margin-left: 10%;
+    font-size: 22px;
+    cursor: pointer;
+    color: #fff;
+}
+
+/**ABOUTENGAGEMENTRINGS**/
+.ABOUTENGAGEMENTRINGS-hiding{
+    text-align: center;
+    color: #61481C;
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+.ABOUT-p{
+    color: #61481C;
+    text-align: center;
+    margin: 15px 60px;
+    margin-top: 24%;
+}
+/**CONTAINER**/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    margin-top: 2%;
+    width: 25%;
+    padding: 1%;
+    position: absolute;
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.ABOUTSECTION{
+    background: rgb(224, 6, 6);
+    color: #fff;
+    background-size: cover;
+    background-position: left;
+    width: 930px;
+    height: 31vh;
+    position: absolute;
+    margin-bottom: 0%;
+}
+.img-Group2{
+    height: 190px;
+    width:  280px;
+    margin-left: 14%;
+}
+.img-Group3{
+    height: 190px;
+    width:  280px;
+    margin-left: 36%;
+}
+.img-Group4{
+    height: 190px;
+    width:  280px;
+    margin-left: 67.5%;
+}
+.btn-shopseemore{
+    font-size: 3rem;
+    border: 1px solid #61481C;
+    background: none;
+    padding: 8px 38px;
+    margin-left: 40%;
+    font-size: 22px;
+    cursor: pointer;
+    color: #61481C;
+    margin-bottom: 6%;
+}
+/**CAROUSEL SECTION**/
+.imgcarousel{
+    height: 170px;
+    width:  160px;
+}
+
+
+
+
+
+
+/**Need Help Finding That Perfect Girf**/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.middel-container{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+.imgjackie{
+    height: 290px;
+    width: 450px;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+}
+.hiding-findingcontainer{
+    color: #61481C;
+    font-family: sans-serif;
+}
+.right{
+    margin-left: 2%;
+}
+.button-FindingThatPerfectGirf{
+    font-size: 3rem;
+    border: 1px solid #61481C;
+    background: none;
+    padding: 8px 38px;
+    font-size: 22px;
+    cursor: pointer;
+    color: #61481C;
+}
+ /** Gemstone Jewellery Section **/
+ 
+ .GemstoneJewellery{
+     margin: 180px 50px 125px 20px;
+ }
+ .GemstoneJewellery-img{
+     height: 230px;
+     width: 230px;
+ }
+ .Gemstone-heading{
+    text-align: center;
+    color: #61481C;
+ }  
+ .Gemstone-p{
+    text-align: center;
+    color: #61481C;
+ }             
+ .Btnshopnow{
+    border: 0.5px solid #61481C;
+    background: none;
+    padding: 4px 18px;
+    font-size: 18px;
+    cursor: pointer;
+    color: #61481C;
+    margin-left: 37%;
+ }
+/** EXPLORE SECTION **/
+.Explore-img{
+    height: 280px;
+    width:  280px;
+}
+.ExploreMoncheri-box{
+    margin-bottom: 7%;
+    padding: 5%;
+}
+#features {
+    background-color: #fff;
+    position: relative;
+}
+.h1-explore{
+    color: #61481C;
+    text-align: center;
+}
+.h6-explore{
+    font-size: 1.2rem;
+    color: #61481C;
+    text-align: center;
+    margin-bottom: 7%;
+    font:  sans-serif;
+}
+.h3-explore{
+    text-align: center;
+    color: #61481C;
+}
+.p-explore{
+    text-align: center;
+    color: #61481C;
+}
+
+/**FOOTER SECTION**/
+.footer-img{
+    height: 300px;
+    width:  230px;
+}
+
+.img-pyment{
+    height: 20px;
+    width:  45px;
+    margin-top: 10%;
+}
+
+.icon{
+    width:  30px;
+    color: #61481C;
+}
+h4{
+    color: #61481C;
+    text-align: left;
+}
+
+***/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer-container{
+    background-color: darkkhaki;
+    
+}
+.footer{
+    width: 80%;
+    height: 90vh;
+    color: #61481C;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin-right: 2rem;
+}
+.footerheading{
+    margin-top: 10%;
+}
+.footer-heading h4{
+    margin-bottom: 2rem;
+}  **/     
